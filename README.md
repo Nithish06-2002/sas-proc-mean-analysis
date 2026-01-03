@@ -14,7 +14,8 @@ Sample dataset stored in the WORK library.
 - Formatting using MAXDEC=
 
 ### Output
-The program generates region-wise Mean and Sum of NetSales.
+The program generates a summary dataset named `netsales_summary_by_region` containing
+region-wise count of observations, mean NetSales, and total NetSales.
 
 ### Use Case
 Commonly used in sales analysis and clinical data summarization.
