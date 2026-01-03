@@ -1,0 +1,8 @@
+PROC MEANS Output – NetSales by Region
+
+The output displays region-wise summary statistics for the variable NetSales.
+For each Region, the table shows the number of observations (N Obs), the mean
+NetSales, and the total NetSales.
+
+This output helps compare average and total NetSales performance across
+different geographic regions.
